@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="mainActivityDescription">This is the first screen user sees when he opens the app. There are different options such as now playing, albums, songs, playlists for the user to select from.</string>
+    <string name="nowPlayingDescription">Music player. Here the user can listen to his music.</string>
+    <string name="albumsDescription">Albums list. Here the user can see his albums and details.</string>
+    <string name="albumName">Album Name</string>
+    <string name="artistName">Artist Name</string>
+    <string name="songListDescription">Songs List. Here the user will see all his songs after the app scans for media files on the device.</string>
+    <string name="playlistDescription">PlayLists. Here the user will see all his Playlists created by him.</string>
+    <string name="paymentActivityDescription">Payment Activity. Here the user can make payment to buy the pro version of the app so that he can stream/download unlimited songs or can buy a particular song. To implement the same, we can use Android Pay API in our app. It is a part of Google Play Services, so we need to import the Google Play Services library. The API requires us to have Android Pay enabled payment processor (such as Bank of America, Paysafe etc.).</string>
+
+    <string name="now_playing_img_desc">Headset Icon</string>
+    <string name="now_playing_tv">Now Playing</string>
+
+    <string name="songs_img_desc">Audio track Icon</string>
+    <string name="songs_tv">Songs</string>
+
+    <string name="playlist_desc">Add Playlist Icon</string>
+    <string name="playlist_tv">Playlists</string>
+
+    <string name="albums_img_desc">Album Icon</string>
+    <string name="albums_tv">Albums</string>
+
+    <string name="albumart_desc">Album Art</string>
+
+    <string name="playlist_name">Playlist Name</string>
+    <string name="song_name">Song Name</string>
+
+    <string name="current_song">Something Just Like This</string>
+
+    <string name="now_playing_action_icon_desc1">Shuffle Icon</string>
+    <string name="now_playing_action_icon_desc2">Repeat Icon</string>
+    <string name="now_playing_action_icon_desc3">Skip Previous Icon</string>
+    <string name="now_playing_action_icon_desc4">Play Icon</string>
+    <string name="now_playing_action_icon_desc5">Skip Next Icon</string>
+
+    <string name="button1">Buy Pro</string>
+
+    <string name="label1">Albums</string>
+    <string name="label2">Now Playing</string>
+    <string name="label3">All Songs</string>
+    <string name="label4">Playlists</string>
+    <string name="label5">Payment</string>
+
+</resources>
